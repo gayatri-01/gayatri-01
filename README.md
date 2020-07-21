@@ -21,3 +21,5 @@ I am a Web Development and Deep Learning Enthusiast. I am exprienced in working 
 - [Website](https://portfolio-gayatri.surge.sh/)
 
 😄 Pronouns: She/ Her
+
+<img src = "https://github-readme-stats.vercel.app/api?username=gayatri-01&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
