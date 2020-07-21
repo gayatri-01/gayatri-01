@@ -7,7 +7,7 @@ I am a Web Development and Deep Learning Enthusiast. I am exprienced in working 
 - Deep Learning using Pytorch
 - Data Structure and Algorithms
 
-👯 I’m looking to collaborate on Web Development/ Deep Learning Projects
+👯 I’m looking to collaborate on Web Development/ Beginner-Friendly Deep Learning Projects
 
 💬 Ask me about
 - Java
