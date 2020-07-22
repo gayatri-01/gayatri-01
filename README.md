@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am a Final Year B.Tech Computer Science Engineering Student at KJ Somaiya College of Engineering, Vidyavihar, Mumbai.
-I am a Web Development and Deep Learning Enthusiast. I am exprienced in working with Java, Python, Javascript, Django, Flask, Angular, MySQL, PostgreSQL, Firebase, MongoDB and basics of Deep Learning uisng Pytorch
+I am a Web Development and Deep Learning Enthusiast. I am experienced in working with Java, Python, Javascript, Django, Flask, Angular, MySQL, PostgreSQL, Firebase, MongoDB and basics of Deep Learning uisng Pytorch
 
  
 🌱 I’m currently learning 
